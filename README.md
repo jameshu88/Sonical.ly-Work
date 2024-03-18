@@ -4,7 +4,7 @@ Welcome to the Sonical.ly Music Education App repository! This project aims to r
 
 ## Project Overview
 
-Sonical.ly is a music education app that leverages the expertise of industry-grade music producers and mix engineers to deliver personalized feedback to users. The app utilizes OpenAI API integration and Python notebooks to analyze user performance and provide detailed feedback on the 6 gameplay aspects of the app, namely: EQ, compression, panning, reverb, EQ, and delay.
+Sonical.ly is a music education app that leverages the expertise of industry-grade music producers and mix engineers to deliver personalized feedback to users. The app utilizes OpenAI API integration and Jupyter notebooks to analyze user performance and provide detailed feedback on the 6 gameplay aspects of the app, namely: EQ, compression, panning, reverb, EQ, and delay.
 
 ## Features
 
