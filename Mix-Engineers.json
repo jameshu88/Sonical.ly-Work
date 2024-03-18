@@ -1,0 +1,785 @@
+{
+    "feedback_videos": [
+      {
+        "feedback_for_video": "How to Mix a Song with Adam Moseley: Start to Finish",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Begin your mix by visualizing the song's landscape and adjust volume levels to ensure each element has its rightful place, akin to Moseley's approach with 'Therapy'.",
+            "source": "[00:00:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Use panning to create a dynamic soundscape, deciding which instruments to highlight or set back, similar to Moseley's strategy for organizing a mix.",
+            "source": "[00:10:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Apply reverb creatively to place instruments in the sonic space you envision for them, taking inspiration from Moseley's use of different reverb types.",
+            "source": "[00:20:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Experiment with delay effects to add texture and depth, considering how Moseley utilizes various reverbs and delays for enhancing the mix.",
+            "source": "[General observation]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Shape your mix by addressing resonant frequencies and enhancing overall sound quality with EQ, following Moseley's use of the SPL VitalEQ and other tools.",
+            "source": "[00:40:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Leverage compression to balance and control dynamics, drawing from Moseley's preference for the Shadow Hills Class A mastering compressor among others.",
+            "source": "[00:05:00]"
+          }
+        ]
+    },
+    { 
+        "feedback_videos": [
+        {
+            "feedback_for_video": "Teezio: Victoria Monét - 'On My Mama' - Mix Breakdown",
+            "feedback": [
+            {
+                "aspect": "Volume",
+                "advice": "Reference the demo for volume levels and adjust accordingly, especially focusing on drums to create a more focused sound, as Teezio does.",
+                "source": "[00:00:00]"
+            },
+            {
+                "aspect": "Panning",
+                "advice": "Consider the spatial arrangement of tracks, such as panning a guitar to the right to avoid frequency clashes.",
+                "source": "[00:10:00]"
+            },
+            {
+                "aspect": "Reverb",
+                "advice": "Use reverb subtly on elements like background vocals to support the lead and enhance the song's imagery without overpowering.",
+                "source": "[00:25:00]"
+            },
+            {
+                "aspect": "Delay",
+                "advice": "Experiment with effects like doubler and side information on drums to add depth and texture.",
+                "source": "[00:05:00]"
+            },
+            {
+                "aspect": "EQ",
+                "advice": "Identify and remove unwanted sounds with EQ, focusing on drums and vocals, to maintain desired sound quality.",
+                "source": "[00:00:00]"
+            },
+            {
+                "aspect": "Compression",
+                "advice": "Use compression carefully on elements such as horns and vocals to balance the mix and give body to specific sections.",
+                "source": "[00:15:00]"
+            }
+        ]
+    },  
+    {
+        "feedback_videos": [
+        {
+            "feedback_for_video": "Curtis 'Sircut' Bye Breaks down Cold As Love by WS Boogie - MIX BREAKDOWN",
+            "feedback": [
+            {
+                "aspect": "Volume",
+                "advice": "Check the mix against a reference track to ensure accuracy, focusing on the foundation of the song like the kick and bass for a balanced mix.",
+                "source": "[00:00:00]"
+            },
+            {
+                "aspect": "Panning",
+                "advice": "Use strategic panning to achieve a better balance in the mix, making adjustments to drums and other elements for an immersive sound.",
+                "source": "[General observation]"
+            },
+            {
+                "aspect": "Reverb",
+                "advice": "Apply reverb selectively to enhance the vocals and instruments, adding depth and space while ensuring clarity in the mix.",
+                "source": "[General observation]"
+            },
+            {
+                "aspect": "Delay",
+                "advice": "Incorporate delay effects to enrich the mix, especially on vocals, for added texture and separation in the soundstage.",
+                "source": "[General observation]"
+            },
+            {
+                "aspect": "EQ",
+                "advice": "Utilize EQ techniques to remove unwanted frequencies and enhance the presence of the kick and bass, tailoring the low-end energy for a cohesive mix.",
+                "source": "[00:05:00]"
+            },
+            {
+                "aspect": "Compression",
+                "advice": "Employ compression to balance the dynamic range, using tools like the UAD Empirical Labs Distressor to glue the kick and bass together.",
+                "source": "[00:10:00]"
+            }
+            ]
+        },   
+    {
+        "feedback_videos": [
+        {
+            "feedback_for_video": "Building a studio in an Apartment and Working with Kanye. Jess Jackson & MixedByAli - NAMM 2023",
+            "feedback": [
+            {
+                "aspect": "Volume",
+                "advice": "Focus on the foundation of the song, such as the kick and bass, to ensure a balanced mix, similar to how Jess Jackson begins his process.",
+                "source": "[00:00:00]"
+            },
+            {
+                "aspect": "Panning",
+                "advice": "Consider the spatial arrangement and role of each instrument in your mix for an immersive sound, as Jackson prioritizes in his work.",
+                "source": "[General observation]"
+            },
+            {
+                "aspect": "Reverb",
+                "advice": "Use reverb to add depth and space, especially to vocals, while respecting the artist's creative boundaries, as highlighted in the discussion with Kanye West.",
+                "source": "[General observation]"
+            },
+            {
+                "aspect": "Delay",
+                "advice": "Employ delay to enhance textures and effects, inspired by Kanye West's unique use of Auto-Tune and other effects.",
+                "source": "[00:10:00]"
+            },
+            {
+                "aspect": "EQ",
+                "advice": "Identify and adjust frequencies to enhance presence and remove unwanted sounds, drawing from Jackson's approach with Auto-Key for pitch correction.",
+                "source": "[00:05:00]"
+            },
+            {
+                "aspect": "Compression",
+                "advice": "Balance dynamic range using compression techniques, taking inspiration from the use of various plugins to glue together elements like kick and bass.",
+                "source": "[General observation]"
+            }
+        ]
+    }, 
+    {
+        "feedback_videos": [
+        {
+            "feedback_for_video": "MIXED BY ALI - Watch & learn as Ali mixes ‘Electric’ by Sarayu LIVE on Twitch",
+            "feedback": [
+            {
+                "aspect": "Volume",
+                "advice": "Start with a reference track to ensure your mix's accuracy and focus on balancing foundational elements like kick and bass for a solid mix foundation.",
+                "source": "[00:00:00]"
+            },
+            {
+                "aspect": "Panning",
+                "advice": "Utilize strategic panning to create a dynamic mix, ensuring each element sits well in the mix without clashing with others.",
+                "source": "[00:10:00]"
+            },
+            {
+                "aspect": "Reverb",
+                "advice": "Apply reverb selectively to add depth and dimension to the mix, enhancing the listening experience without overwhelming the original elements.",
+                "source": "[General observation]"
+            },
+            { 
+                "aspect": "Delay",
+                "advice": "Experiment with delay effects to enrich the track's texture, especially in vocals, for added depth and engagement in the mix.",
+                "source": "[General observation]"
+            },
+            {
+                "aspect": "EQ",
+                "advice": "Employ EQ techniques to clean up the mix, removing unwanted frequencies and enhancing desired ones for clarity and balance.",
+                "source": "[00:05:00]"
+            },
+            {
+                "aspect": "Compression",
+                "advice": "Use compression wisely to tighten up elements like the kick, ensuring they blend well with the bass and the overall mix remains cohesive.",
+                "source": "[00:05:00]"
+            }
+        ]
+    },   
+    {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Putting feeling first in your mixes with Josh Gudwin (Justin Bieber) and Neal Pogue (Tyler/Igor)",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Josh Gudwin and Neal Pogue emphasize balancing volume by the emotional weight each element carries in the mix, focusing on the emotional connection over technical precision.",
+            "source": "[00:00:00 - 00:30:00†source]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Josh Gudwin and Neal Pogue use panning to create a spatial mix that complements the emotional impact of the music, focusing on how the placement of sounds can enhance the listener's emotional experience.",
+            "source": "[00:15:00†source]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Inspired by Josh Gudwin and Neal Pogue, apply reverb creatively to evoke specific emotions, using it as a tool to add depth and space that matches the feeling you want to convey in your mix.",
+            "source": "[00:15:00†source]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Following Josh Gudwin's approach, experiment with delay settings to add texture and emotion to the mix, considering how delay can enhance the narrative or mood of the music.",
+            "source": "[00:10:00†source]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Focus on EQ adjustments that enhance the emotional impact of the music, prioritizing adjustments that make the mix feel right over strictly technical considerations, as discussed by Josh Gudwin and Neal Pogue.",
+            "source": "[00:30:00†source]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Use compression to control dynamics in a way that preserves the emotional intent of the music, ensuring that compression settings support rather than overshadow the emotional cues in the mix, as advised by Josh Gudwin.",
+            "source": "[00:10:00†source]"
+          }
+        ]
+      },   
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "David Yungin Kim Speaks on Organization and his work with Hit-Boy (EngineEars @ NAMM 2023)",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "David Yungin Kim emphasizes learning to balance volume levels efficiently over sound quality. This approach helps to maintain the clarity and impact of each element in the mix.",
+            "source": "[00:10:00†source]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Kim underscores the importance of being creative and flexible with panning to enhance the spatial dynamics of a mix, focusing on creating a natural and engaging soundstage.",
+            "source": "[General observation†source]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Reflecting on Kim's experience with different genres, apply reverb in a way that complements the song's emotional tone and genre, using it to add depth and space where needed.",
+            "source": "[00:10:00†source]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Inspired by Kim's varied approach to mixing, utilize delay creatively to enrich the mix's texture and emotional feel, considering the song's direction and the feelings it aims to convey.",
+            "source": "[General observation†source]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "David Yungin Kim highlights the importance of understanding the genre and the song's direction before EQing. Tailor your EQ settings to enhance the track's emotional impact, focusing on the elements that carry the most emotional weight.",
+            "source": "[00:10:00†source]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Taking cues from Kim's workflow, use compression to balance dynamics while preserving the emotional intensity of the performance, ensuring that the compression settings serve the song's emotional goals.",
+            "source": "[General observation†source]"
+          }
+        ]
+      },   
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Mixing Lessons from my Dad and Working with Burna Boy – Jesse Ray Ernster - NAMM 2024",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Jesse Ray Ernster emphasizes the low end's evolution in music production, noting a substantial increase in its volume over the years. For the game, this highlights the importance of adjusting volume levels to prioritize the low end, ensuring it's emphasized without overshadowing other mix elements.",
+            "source": "[00:20:00†source]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Ernster's discussion on creating three-dimensional vocal sounds using cascading effects and time adjusters underscores the significance of creative panning. Players can experiment with panning to achieve a spacious mix that adds depth to their game projects.",
+            "source": "[00:30:00†source]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Drawing inspiration from Ernster's innovative vocal mixing technique, players are encouraged to apply reverb creatively. By adjusting the sends to each reverb effect individually, they can blend multiple reverbs for a more complex and unique sound space in their mixes.",
+            "source": "[00:25:00†source]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Ernster's use of time delays and stereo widening to create a three-dimensional sound exemplifies the creative potential of delay effects. Players can incorporate delay strategically to add depth and a sense of space to the vocals or other mix elements.",
+            "source": "[00:30:00†source]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Reflecting on Ernster's approach to mixing transients and maintaining punchiness, players should use EQ to enhance the clarity of transients while ensuring they remain integral and not too abrasive. This approach is crucial, especially when working with percussive elements in Afro Beat music.",
+            "source": "[00:05:00†source]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Given Ernster's focus on efficiency and serving clients quickly, players can learn the importance of using compression to balance dynamics promptly while maintaining the mix's integrity. This approach aids in delivering revisions swiftly and meeting the needs of the game's simulated clients.",
+            "source": "[00:15:00†source]"
+          }
+        ]
+      },
+  {
+    "feedback_for_video": "Mixing Lessons from my Dad and Working with Burna Boy – Jesse Ray Ernster - NAMM 2024",
+    "feedback": [
+      {
+        "aspect": "Volume",
+        "advice": "Emphasize the low end for a robust sound while maintaining a punchy top end for clarity. This balance is crucial for genres like Afro Beat.",
+        "source": "[00:00:00†source]"
+      },
+      {
+        "aspect": "Panning",
+        "advice": "Use creative panning techniques to create three-dimensional vocal sounds, enhancing the spatial feel of the mix.",
+        "source": "[00:30:00†source]"
+      },
+      {
+        "aspect": "Reverb",
+        "advice": "Link multiple effects, including reverb, to one channel for intricate and unique soundscapes. This technique allows for blending effects in real-time, providing fresh perspectives.",
+        "source": "[00:25:00†source]"
+      },
+      {
+        "aspect": "Delay",
+        "advice": "Employ cascading time adjusters and stereo widening for vocals, creating a distinctive, three-dimensional sound. Experiment with different plugins to achieve this effect.",
+        "source": "[00:30:00†source]"
+      },
+      {
+        "aspect": "EQ",
+        "advice": "Focus on EQ techniques that maintain transients while avoiding abrasiveness. Split EQ and midside techniques are particularly effective. Additionally, consider the low-end as a defining element of the mix.",
+        "source": "[00:05:00†source], [00:20:00†source]"
+      },
+      {
+        "aspect": "Compression",
+        "advice": "Prioritize efficiency and quick revisions by adopting a streamlined workflow that includes in-the-box mixing. This approach allows for more agility in making changes.",
+        "source": "[00:10:00†source], [00:15:00†source]"
+      }
+    ]
+  },   
+  {
+    "feedback_for_video": "Mixing Lessons from my Dad and Working with Burna Boy – Jesse Ray Ernster - NAMM 2024",
+    "feedback": [
+      {
+        "aspect": "Volume",
+        "advice": "Emphasize the low end for a rich, deep sound while ensuring the top end remains transient and punchy, as Jesse Ray Ernster emphasizes in his approach to Afro Beat music.",
+        "source": "[00:00:00†source]"
+      },
+      {
+        "aspect": "Panning",
+        "advice": "Utilize innovative panning techniques, like Jesse does with cascading effects and time adjusters, to create a three-dimensional vocal sound that enhances the spatial quality of the mix.",
+        "source": "[00:30:00†source]"
+      },
+      {
+        "aspect": "Reverb",
+        "advice": "Experiment with the application of reverb to support the overall mix's spatial imaging, inspired by Ernster's discussion on using effects to enhance the atmosphere in music.",
+        "source": "[00:05:00†source]"
+      },
+      {
+        "aspect": "Delay",
+        "advice": "Incorporate delay strategically to add depth and texture, drawing inspiration from Ernster's use of time adjusters for creating unique vocal effects.",
+        "source": "[00:30:00†source]"
+      },
+      {
+        "aspect": "EQ",
+        "advice": "Focus on maintaining a balanced mix that emphasizes both the low end and crisp transients, applying EQ techniques like Ernster to keep transients intact without becoming abrasive.",
+        "source": "[00:05:00†source]"
+      },
+      {
+        "aspect": "Compression",
+        "advice": "Explore using the Omni Channel as a parallel compressor for dynamic control, similar to Andrew Scheps' technique, ensuring a balanced and controlled dynamic range across your mixes.",
+        "source": "[00:00:00†source]"
+      }
+    ]
+  },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Andrew Scheps Talks to Mick Guzauski",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Adjust volumes subtly to capture music's essence, especially when transitioning between analog and digital.",
+            "source": "[General observation]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Use panning for spatial balance, mimicking unique recording environments for depth.",
+            "source": "[General observation]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Apply multiple reverbs for the same space on different subgroups for cohesive spatial imaging.",
+            "source": "[02:00:00 - 03:00:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Incorporate delay to add depth and rhythm, enhancing musicality without overshadowing originality.",
+            "source": "[General observation]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Refine instrument timbre with EQ, ensuring clarity and balance without losing natural sound.",
+            "source": "[General observation]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Use compression to maintain dynamic consistency, preserving music's character and energy.",
+            "source": "[03:00:00 - 03:30:00]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Mix Fix Live #7 with Fab Dupont",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Fab Dupont suggests balancing the mix by adjusting the volume levels of elements like vocals and drums to preserve the song's identity and match the reference mix.",
+            "source": "[01:05:00, 01:10:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Fab Dupont recommends using panning to create spatial depth, placing elements like bass and drums strategically to ease brain processing and achieve a balanced stereo field.",
+            "source": "[00:15:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Fab Dupont emphasizes selecting reverb types (e.g., Room, Plate, Hall) based on the spatial qualities desired, applying them to enhance the mix without overshadowing primary elements.",
+            "source": "[01:20:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Fab Dupont advises integrating delay sparingly to add depth and texture, especially to vocals, ensuring it complements the overall mix rather than dominating.",
+            "source": "[General observation on effect use]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Fab Dupont instructs on applying EQ adjustments to clear unwanted frequencies and enhance desired tones, focusing on clarity and balance across the mix.",
+            "source": "[01:00:00, 01:10:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Fab Dupont points out using compression to manage dynamics, carefully setting parameters like ratio, threshold, and attack to maintain energy while ensuring cohesion.",
+            "source": "[00:35:00, 01:10:00]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Andrew Scheps Talks to Mick Guzauski",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Mick Guzauski emphasizes the importance of careful volume management, especially when transferring analog masters to digital, to preserve the dynamic range and integrity of the original recordings.",
+            "source": "[00:00:00 - 01:00:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Mick Guzauski discusses the utilization of unique recording rooms and consoles, suggesting a thoughtful approach to panning that takes advantage of the spatial characteristics of the recording environment.",
+            "source": "[00:30:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Mick Guzauski shares his approach to using multiple reverbs for different instruments to maintain separation in the mix, highlighting the importance of choosing reverb types that complement the spatial qualities of each element.",
+            "source": "[02:35:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Although not explicitly detailed in the script, Mick Guzauski's overall discussion on the use of effects suggests leveraging delay to enhance the depth and texture of the mix, aligning with his emphasis on the meticulous use of technology.",
+            "source": "[General inference from mixing techniques discussed]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Mick Guzauski mentions his use of EQ to shape the sound of instruments, such as using a large hall reverb with a little pre-delay for strings, indicating a nuanced approach to EQ settings to enhance musical elements.",
+            "source": "[03:10:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Mick Guzauski's fondness for the LA2A compressor and discussing mixing techniques implies the strategic use of compression to balance dynamics while maintaining the natural character of the music.",
+            "source": "[03:15:00]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Andrew Scheps Talks to Manny Marroquin | Andrew Talks to Awesome People",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Manny Marroquin emphasizes adjusting mixing volumes depending on the record type, changing the volume periodically to maintain a fresh perspective and prevent adaptation to one sound level.",
+            "source": "[01:30:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "While not explicitly covered in this segment, Marroquin's overall mixing philosophy suggests a creative use of panning to enhance the spatial dimension of a mix, based on his extensive background and the adaptive nature of his mixing process.",
+            "source": "[General observation from Manny's mixing philosophy]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Manny Marroquin discusses the importance of using reverb creatively to add emotional space in a mix when necessary, tailoring the effect to support the emotional impact of the music.",
+            "source": "[01:20:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Marroquin's approach to effects, including delay, likely involves using them to enhance the musicality and emotional expression of a track, though specific delay techniques were not detailed in this segment.",
+            "source": "[General inference from discussion on effects usage]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Manny Marroquin and Andrew Scheps exchange ideas on the use of EQ and other plugins, emphasizing the discovery of new techniques through collaboration and the creative application of tools to shape the sound.",
+            "source": "[01:25:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Marroquin's mixing process, involving both analog and digital tools, suggests a nuanced approach to compression, focusing on the emotional and groove aspects of music to guide his decisions on dynamics.",
+            "source": "[01:35:00]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Andrew Scheps Talks to Manny Marroquin Part 2 | Andrew Talks to Awesome People",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Manny Marroquin underscores the importance of dynamic range in achieving loudness without sacrificing the mix's life. Carefully adjust volume levels to preserve clarity and energy, especially for key elements like vocals and lead instruments.",
+            "source": "[01:15:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Given Marroquin's emphasis on the music's emotional essence, use panning creatively to place instruments in a way that supports the song's narrative and emotional depth, enhancing listener engagement.",
+            "source": "[General inference from Marroquin's mixing philosophy]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Manny Marroquin advises on the emotional use of reverb to make music feel better. Select reverb types and settings that match the emotional intent of the track, starting with simpler reverbs and adjusting to taste.",
+            "source": "[01:40:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Follow Marroquin's approach by using delay to add depth and enhance the track's emotional context. Apply delay sparingly to avoid clutter, focusing on elements that benefit from spatial enhancement.",
+            "source": "[01:40:00]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Emulate Marroquin's technique of using EQ to shape emotions within a mix. Focus on removing unwanted frequencies and enhancing those that contribute to the song's emotional impact, creating a balance between clarity and warmth.",
+            "source": "[01:25:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Manny Marroquin highlights the nuanced use of compression to maintain the mix's dynamics. Apply compression to manage volume discrepancies and enhance the overall punchiness, keeping an ear on the track's emotional delivery.",
+            "source": "[01:35:00]"
+          }
+        ]
+      },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Andrew Scheps Talks to Manny Marroquin Part 3 | Andrew Talks to Awesome People",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Manny Marroquin and Andrew Scheps emphasize the balance in volume, cautioning against making any section too big or small to maintain listener interest. Aim for dynamic balance to compel the listener to replay the track.",
+            "source": "[02:00:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "While specific panning techniques aren't detailed, Marroquin's mixing philosophy suggests creative panning to enhance a track's emotion and narrative, using spatial placement to support the song's storytelling.",
+            "source": "[General inference from mixing philosophy]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Experiment with reverb types and settings to add depth to vocals, as discussed by Scheps and Marroquin. A larger reverb can create distance, while a tight reverb can add a harmonizing effect.",
+            "source": "[01:55:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Marroquin's approach implies using delay to complement the emotional intent of the track. Apply delay sparingly to elements that benefit from spatial enhancement, focusing on how it supports the song's emotion.",
+            "source": "[General inference from mixing philosophy]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Both Scheps and Marroquin discuss the importance of trusting one's instincts and the 'gravity' of a recording. Apply EQ as needed, focusing on removing unwanted frequencies and enhancing those that contribute to the song's emotional gravity.",
+            "source": "[00:10:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Reflecting on their vast experience, Scheps and Marroquin highlight using compression to enhance the dynamics while keeping the emotional delivery intact. Trust your instincts on how compression serves the emotional depth of the mix.",
+            "source": "[General discussion on dynamics and emotion]"
+          }
+        ]
+      },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Andrew Scheps Talks to Darrell Thorp (Beck, Radiohead...)",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Darrell Thorp emphasizes the critical balance of volume across different sections to keep the listener engaged. Darrell advises ensuring each part of your mix has the right volume level to maintain interest and drive the song's narrative.",
+            "source": "[03:15:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Darrell Thorp suggests being creative with vocal doubling techniques, including panning for a richer, fuller sound. Darrell recommends experimenting with panning doubled vocals to find the best placement that supports your song's texture.",
+            "source": "[03:05:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Darrell Thorp shares a preference for using real chamber and plate reverbs over plugins, hinting at the depth and authenticity they can add to a mix. In the game, choose reverb settings that emulate real spaces for a more authentic sound, as per Darrell's approach.",
+            "source": "[03:10:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "While specific delay techniques weren't discussed, Darrell Thorp's approach to experimentation and adjusting to the needs of each project can be applied. Use delay creatively to add space and dimension to your mixes, drawing inspiration from Darrell's flexibility.",
+            "source": "[General inference from mixing philosophy]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Darrell Thorp talks about the importance of guitar cables in achieving the best sound, highlighting the significance of small details in shaping a mix's overall tonality. Darrell suggests paying close attention to EQ settings on individual tracks to ensure clarity and cohesion.",
+            "source": "[01:05:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "In discussing his work, Darrell Thorp mentions the use of unique recording techniques to achieve specific sounds. Darrell encourages applying compression judiciously, focusing on enhancing the song's dynamics while preserving its emotional impact.",
+            "source": "[General inference from production techniques]"
+          }
+        ]
+      },  
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Andrew Scheps Talks to Darrell Thorp Part 2 (Beck, Radiohead...)",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Darrell Thorp emphasizes the goal of making recordings sound inspiring and exciting, rather than flat and lifeless, highlighting the importance of capturing the energy and emotion of a performance in the recording phase. Adjust volume levels to maintain the energy and emotion in your mix.",
+            "source": "[00:10:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Darrell Thorp shares an experience where Beck encouraged him to push sonic boundaries, teaching him the significance of experimentation. Utilize panning to experiment with sound placement, enhancing the depth and dimension of your mix.",
+            "source": "[00:15:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Darrell Thorp discusses recording in unique locations to enhance recordings, signifying the impact of environment on sound. Apply reverb creatively in your mixes to simulate recording in various acoustic environments.",
+            "source": "[02:00:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Darrell Thorp shares insights on using EQ and delay to create big snare sounds on Beck records, indicating the use of effects to shape sound. Implement delay thoughtfully to add texture and depth, particularly to your snare sounds.",
+            "source": "[02:00:00]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Darrell Thorp emphasizes the importance of using equalization during recording to enhance the recording's quality. Use EQ judiciously during the recording phase to shape and enhance your sounds before mixing.",
+            "source": "[00:05:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Discussing his transition to producing, Darrell Thorp highlights the challenge of wearing multiple hats and the exhaustion it can bring. Apply compression with understanding and care, as overuse can lead to a lack of dynamics and energy in your mix.",
+            "source": "[00:55:00]"
+          }
+        ]
+      },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Mixing Engineer & Producer Jimmy Douglass (Pharrell Williams, Jay Z...) on career, life, music & art",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Jimmy Douglass emphasizes understanding the cultural context and personal experiences behind the music to truly appreciate its significance. Apply volume adjustments in your mix to ensure each element supports the story and emotion you aim to convey.",
+            "source": "[00:00:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Douglass describes his early musical shifts and influences, highlighting the importance of diverse musical tastes. Use panning creatively to reflect the variety and depth of your musical influences, enhancing the spatial quality of your mix.",
+            "source": "[00:05:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Reflecting on the transition from soulful church music to various music types, Douglass underscores the significance of diverse sonic environments. Utilize reverb to mimic these environments, creating depth and context within your mix.",
+            "source": "[00:00:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Inspired by legendary figures and their creative processes, Douglass learned to experiment. Experiment with delay settings to discover unique soundscapes and textures, enhancing the originality of your mix.",
+            "source": "[00:20:00]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Douglass shares how his transition to music influenced his career. Use EQ to shape and enhance your sounds, reflecting your unique journey and the diverse influences that shape your music.",
+            "source": "[00:05:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Douglass discusses the importance of confidence and consistency. Apply compression thoughtfully to maintain dynamics while ensuring consistency and polish in your mix.",
+            "source": "[00:35:00]"
+          }
+        ]
+      },
+  {
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Mixing Engineer & Producer Jimmy Douglass (Pharrell Williams, Jay Z...) on career, life, music & art",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Jimmy Douglass emphasizes understanding the cultural context and personal experiences behind the music to truly appreciate its significance. Apply volume adjustments in your mix to ensure each element supports the story and emotion you aim to convey.",
+            "source": "[00:00:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Douglass describes his early musical shifts and influences, highlighting the importance of diverse musical tastes. Use panning creatively to reflect the variety and depth of your musical influences, enhancing the spatial quality of your mix.",
+            "source": "[00:05:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Reflecting on the transition from soulful church music to various music types, Douglass underscores the significance of diverse sonic environments. Utilize reverb to mimic these environments, creating depth and context within your mix.",
+            "source": "[00:00:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Inspired by legendary figures and their creative processes, Douglass learned to experiment. Experiment with delay settings to discover unique soundscapes and textures, enhancing the originality of your mix.",
+            "source": "[00:20:00]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Douglass shares how his transition to music influenced his career. Use EQ to shape and enhance your sounds, reflecting your unique journey and the diverse influences that shape your music.",
+            "source": "[00:05:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Douglass discusses the importance of confidence and consistency. Apply compression thoughtfully to maintain dynamics while ensuring consistency and polish in your mix.",
+            "source": "[00:35:00]"
+        }
+    ]
+  }
+]
+}
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  

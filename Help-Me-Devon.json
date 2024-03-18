@@ -1,0 +1,110 @@
+{
+    "feedback_videos": [
+      {
+        "feedback_for_video": "Mixing A Song From Start To Finish 3 Hour Session by Help Me Devon",
+        "feedback": [
+          {
+            "aspect": "Volume",
+            "advice": "Help Me Devon emphasizes balancing volume levels within the game's parameters for elements like drums and bass to establish a solid mix foundation.",
+            "source": "[00:00:00 - 00:30:00]"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "Help Me Devon suggests creating a perception of width by separately EQing the left and right sides of high hats, thus enhancing spatial quality without harshness.",
+            "source": "[00:20:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "According to Help Me Devon, creatively use reverb on vocals for consistency and to create a more immersive experience by adjusting textures and adding 3D effects.",
+            "source": "[01:05:00 - 01:10:00]"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "Help Me Devon advises experimenting with slap delays on sounds to make them bounce and feel more dramatic, subtly enhancing the mix's feeling.",
+            "source": "[02:15:00]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "Help Me Devon highlights removing resonant frequencies in the kick and snare to enhance presence and clarity, and controlling peaks with EQ adjustments for a balanced mix.",
+            "source": "[00:05:00 - 00:15:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Help Me Devon demonstrates tightening the bass using compression to catch the initial transient, making it thicker and fuller, and applying side chaining with the kick for cohesive dynamics.",
+            "source": "[00:35:00]"
+          }
+        ]
+      },
+      {
+        "feedback_for_video": "Why You're Struggling To Sit Things In The Mix | ROSETTA COMPRESSOR by Help Me Devon",
+        "feedback": [
+          {
+            "aspect": "Compression",
+            "advice": "Understand the significance of compression ratios and how adjusting attack and release can influence the dynamics of your mix. Fast attack for tighter sound and slow attack for openness, with the game's compression settings, can mimic these principles to control dynamic range effectively.",
+            "source": "[00:05:00], [00:10:00]"
+          },
+          {
+            "aspect": "Volume",
+            "advice": "Adjust volume levels carefully to manage the dynamic range within the game's constraints, aiming for a cohesive mix that brings together quiet and loud elements smoothly.",
+            "source": "[00:00:00 - 00:05:00]"
+          },
+          {
+            "aspect": "EQ",
+            "advice": "While not directly mentioned, applying EQ strategically can complement compression by enhancing clarity and balance, particularly in challenging dynamic ranges.",
+            "source": "N/A"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Though specific reverb advice isn't provided, using reverb settings within the game to create space and depth around compressed elements can achieve a fuller mix.",
+            "source": "N/A"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "No specific delay techniques discussed, but consider using delay settings to add depth and dimension to elements affected by compression.",
+            "source": "N/A"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "No direct advice on panning was given, but thoughtful placement of elements, especially after compression, can enhance the mix's spatial quality.",
+            "source": "N/A"
+          }
+        ]
+      },
+      {
+        "feedback_for_video": "Why Your Mixes Sound Dull And Weak | Gullfoss EQ by Help Me Devon",
+        "feedback": [
+          {
+            "aspect": "EQ",
+            "advice": "Use EQ adjustments in the game to emulate the 'recover' and 'tame' functions of the Gullfoss EQ plugin, focusing on enhancing clarity by identifying and balancing dominant frequencies within your mix.",
+            "source": "[00:05:00]"
+          },
+          {
+            "aspect": "Volume",
+            "advice": "Adjust volume levels strategically to restore dynamics in your mix, akin to how Gullfoss EQ enhances dynamics without increasing loudness, aiming for a balanced and dynamic sound within the game's volume settings.",
+            "source": "[00:00:00]"
+          },
+          {
+            "aspect": "Compression",
+            "advice": "Mindful application of compression can prevent a mix from sounding dull or weak. Consider compression settings within the game that allow dynamic range to be preserved, similar to the dynamic restoration offered by Gullfoss EQ.",
+            "source": "[00:00:00]"
+          },
+          {
+            "aspect": "Reverb",
+            "advice": "Though specific reverb techniques aren't directly mentioned, applying reverb thoughtfully in your game mixes can create space and depth, complementing the EQ and compression strategies for a more lively mix.",
+            "source": "N/A"
+          },
+          {
+            "aspect": "Delay",
+            "advice": "No specific delay techniques discussed, but consider using delay settings in the game to add depth and dimension, enhancing the clarity and liveliness of your mix similarly to the Gullfoss EQ's impact.",
+            "source": "N/A"
+          },
+          {
+            "aspect": "Panning",
+            "advice": "While not directly covered, effective use of panning can enhance the spatial quality of your mix, working in tandem with EQ adjustments to ensure a balanced and dynamic sound.",
+            "source": "N/A"
+          }
+        ]
+      }
+    ]
+  }
+  
