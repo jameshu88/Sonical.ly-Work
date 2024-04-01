@@ -1,0 +1,579 @@
+{
+  "feedback_videos": [
+    {
+      "feedback_for_video": "Josh Gudwin's Vocal Mixing Techniques",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Josh Gudwin fine-tunes the volume of Dua Lipa's vocals for clarity. Start by setting your lead around vocal track to the 0.3 to 0.7 dB range to ensure it's prominent without overshadowing the instrumental!",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "To create a cohesive sound as Gudwin (Dua Lipa's producer) does, pan backing vocals slightly off-center, start between -0.2 and +0.2, to add depth and a live feel to the mix.",
+          "source": "[00:15:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Gudwin uses reverb to add space around Dua Lipa's vocals. Apply a moderate Hall Reverb, starting somewhere around level 2, on the vocal tracks to achieve a similar spaciousness.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "For the lead vocals, Gudwin adds a long delay to Dua Lipa's tracks to create depth. Try setting a Quarter note delay at level 3 on the lead vocal track to mimic this effect.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Josh Gudwin EQs vocals by removing unwanted frequencies. Try using a Spring EQ setting in the game to cut frequencies slightly, starting by about 0.2, especially in the lower mids to clean up the vocal mix.",
+          "source": "[00:00:00 - 00:20:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Gudwin compresses the vocals to enhance their presence. Try a compressor with somewhere around a 4:1 ratio and a threshold around -15dB on your vocal tracks to achieve a balanced and powerful vocal performance. Play with the settings and find your sweet spot!",
+          "source": "[00:00:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "How Jeff Ellis Mixes Frank Ocean, Doja Cat, Joji",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "When mixing 'Pink + White' by Frank Ocean, Jeff Ellis emphasizes the importance of keeping the original mix bus intact for preserving the song's dynamic range. In the game, aim to balance your tracks' volume by starting around 0.7 to 0.8 to maintain dynamics similar to Ellis's technique.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "Ellis discusses creating a wide soundstage similar to his work on Doja Cat's 'Say So'. Experiment with wide panning for background vocals and instruments, beginning in the -0.8 to +0.8 range, to achieve a spacious mix.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "In 'Glimpse of Us' by Joji, Ellis uses real plate reverbs to add depth. Try using Plate Reverb beginning at level 3 in the game for a similar rich and warm sound. Tweak to tastes!",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Ellis uses delay to add space around vocals, as heard in Frank Ocean's tracks. Maybe set a Quarter note delay at level 2 on your vocal tracks in the game for that expansive vocal effect!",
+          "source": "[00:00:00 - 00:10:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "For 'Say So' by Doja Cat, Ellis uses SSL EQ to boost and cut specific frequencies. In the game, try adjusting the MID frequencies starting around 0.2 to 0.3 on your vocal tracks to clean up the mix and add clarity.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Ellis's vocal mixing for Joji involves basic EQ and compression to maintain emotional resonance. Use a compressor with a ratios of your own experimentation and a threshold around -15dB on vocals to try to emulate the dynamics of Joji's songs!",
+          "source": "[00:10:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Grammy Award Winning Mix Engineer, Neal H. Pogue",
+      "feedback": [
+        {
+          "aspect": "Panning",
+          "advice": "Drawing from Pogue's broad musical taste and experience as a drummer, use creative panning to keep the pulse and groove lively in tracks like Outkast's 'Hey Ya!'. Experiment with dynamic panning of your instrumentals all throughout the track. Try to avoid keeping any instrument in the same place!",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Neal Pogue's unique approach to mixing, focusing on the feel and vibe, can be applied to songs like 'EARFQUAKE' by Tyler, The Creator. Apply subtle Plate Reverb to vocals to enhance their emotional resonance without overpowering the mix.",
+          "source": "[00:15:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "For creating atmospheric depth similar to Joji's work, Pogue might use a long delay on vocals. Play around with something like a Quarter note delay at a low level (around 2) on lead vocals for a more expansive sound.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Influenced by his philosophy of letting the music guide the mix, Pogue would use SSL EQs to enhance 'Roses' by Outkast. Adjust the MID frequencies slightly to add clarity and color to your mix, emulating Pogue's technique.",
+          "source": "[00:15:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Neal H. Pogue's work, including Tyler, The Creator's 'IGOR', showcases his skill in using parallel compression in getting a balanced sound. Try researching about it to experiment in game and in your own productions!",
+          "source": "[00:10:00]"
+        }
+      ]
+    }, 
+   {
+      "feedback_for_video": "How Mixed By Ali Mixes for Kendrick Lamar",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "For 'King Kunta' off the album 'To Pimp a Butterfly', Kendrick's producer Ali emphasized clarity and volume balance among live instruments. In the game, try setting your volume levels higher for live instruments to try and mimick Kendrick's sound!",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "In mixing 'Alright', Ali utilized stereo imaging to enhance the track's spaciousness. Experiment with wide panning for background vocals and instruments - be bold and try to replicate this expansive stereo field!",
+          "source": "[00:00:00 - 00:10:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Ali added an imager to an effect called 'echo boy' (check it out on Google!) on the 'To Pimp a Butterfly' tracks. In the game, use a Delay with a setting at level 3 to add dimension and richness to your mix, particularly on vocals.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "To achieve the signature sound of 'good kid, m.A.A.d city', Ali rolled off the top end of kick drums. Apply a slight cut on the HIGH frequencies for kick drums to replicate this subtle yet impactful effect.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "In mastering 'To Pimp a Butterfly', Ali ran the record through a TR 102 tape machine for a '70s sound. While specific hardware isn't available in the game, simulate this warmth by setting Compression with a mild ratio of 2:1 and a low threshold around -20dB for a vintage feel. Play around with it!",
+          "source": "[00:10:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Producing The Weeknd's Vocals with Illangelo",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Illangelo emphasizes dynamic vocal levels in The Weeknd's 'Blinding Lights' without too much compression. To emulate that sound on crisp tracks, utilize the Vocal plug-ins within the game settings to automatically adjust vocal volume down for consistency without over-compressing.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "To replicate the spatial effect in 'Can't Feel My Face', experiment with slight panning on backing vocals, however you interpret them, creating a wide yet focused soundstage as Illangelo does.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "For creating the atmospheric depth found in 'The Hills', apply reversed reverb techniques and Valhalla Delay at level 3 on vocals to enhance the haunting, spatial quality that Illangelo crafts. Try expressing emotion in-game and in your own productions with reverb!",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Illangelo utilizes the 'echo boy' sound for delay effects. In 'Starboy', incorporating a medium Delay at level 2 can add richness and depth to the lead vocals, echoing Illangelo's style.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "In mixing vocals for 'After Hours', Illangelo uses plugins like Denise for EQ adjustments. Apply a slight boost around 3KHz and roll off the lows below 120Hz to mimic his technique for clarity and warmth. Again, frequencies depend on your tracks. Play around!",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Illangelo suggests specific compressor settings for The Weeknd's tracks based on tempo and feel. For a track similar to 'Save Your Tears', set the compressor with a quick attack and long release for smooth vocal dynamics.",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Mike Fraser - Archive Interview",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Mike Fraser reminisces about the full and rich sound of live recordings. For a track similar to those by AC/DC, focus on capturing the live essence of instruments by setting them as high as you can at the end of the production process without peaking",
+          "source": "[00:00:00 - 00:10:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "Fraser discusses the spatial qualities of recordings captured live. Replicate this in the game by experimenting with wide panning for instruments to simulate the live room feel of classic rock tracks.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Drawing from the rich sound of past recordings, apply a medium Reverb on drums and vocals to emulate the ambiance of a live studio recording, akin to Fraser's work with AC/DC.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Fraser values capturing the 'magical take' with minimal post-processing. Use Delay sparingly, at level 2 or even 1, on lead guitar or vocals to maintain clarity while adding depth.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "In response to the transition from rich-sounding CDs to mp3s, enhance your tracks' warmth by slightly boosting the LOW frequencies, around 0.3, especially on bass and kick drums to capture the full sound Fraser admires.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Fraser emphasizes the importance of transparency and capturing live performances. Set your compressor with a low ratio, 2:1, and a modest threshold of something like -20dB for vocals and guitars to retain their dynamic range while ensuring consistency.",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Interview with Jesse Ray Ernster on Mixing for Doja Cat",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Jesse Ray Ernster emphasizes the power of fader adjustments to add emotion and energy, especially in urban and hip-hop mixes like those for Doja Cat. In the game, experiment with subtle (!) volume changes on key elements to enhance the emotional impact of your track.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "Given Ernster's transition to urban music, where stereo imaging plays a crucial role, try panning backing vocals and synths modestly high between -0.5 and +0.5 to create a spacious mix that still retains focus, akin to the production on Doja Cat's tracks.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Ernster's use of saturation for emotional depth suggests a balance in effects. Apply a light Reverb at level 1 on lead vocals to simulate the warmth and presence found in tracks like Doja Cat's, without overshadowing the clarity.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "The Vac Attack compressor, with its musical curves, is likened to adding texture in real life productions for Doja Cat. Incorporate a Delay at level 2 with moderate feedback on vocals for a 'glorious' effect, emulating Ernster (Doja Cat's producer's) and his vocal treatment.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Inspired by Ernster's plugin usage for Doja Cat's vocals, enhance the EQ by slightly boosting the high frequencies, around 0.2 to 0.3, especially on the vocals, to achieve clarity and presence in your mixes.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Emulating Ernster's approach with the Vac Attack on Doja Cat's tracks, use compression with a faster attack and a musical release on the vocal tracks. Set the compressor with a medium attack (around 10ms) and release (around 50ms) for dynamic control without sacrificing the vocal's natural qualities.",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+     {
+      "feedback_for_video": "Andrew Scheps Reveals His Mix Process",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Scheps emphasizes building a mix around drums and vocals, starting with these elements to set the foundation. For a track like 'Rock or Bust' by AC/DC, which Scheps mixed, begin your mix by setting the drum volume around high levels like 0.7 to 0.8 and vocals at 0.8 to ensure they command the mix!",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "In mixing 'The Last Time' by The Rolling Stones, Scheps might use dynamic panning to keep the mix engaging. Experiment with very slight panning adjustments on rhythm guitars and backing vocals between -0.3 and +0.3 to create a live feel within the mix.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "For creating the atmospheric depth found in Adele's 'Hello', a track Scheps worked on, apply a medium Reverb (in our game, maybe at level 3) on vocals to enhance their emotional resonance without overwhelming the mix.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Scheps often incorporates delay to add space around vocals. In 'Give It Away' by Red Hot Chili Peppers, incorporating a medium Delay starting at level 2 (build up if you want!) on lead vocals can add richness and depth, mimicking Scheps' style.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Inspired by Scheps' mix for Beyoncé's 'Freedom', enhance the EQ by slightly boosting the high frequencies, around 0.2 to 0.3 for your bands, especially on the vocals, to achieve clarity and presence in your mixes.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Drawing from Scheps' approach to dynamic tracks like Jay-Z's '99 Problems', use compression with a faster attack and a musical release on the vocal tracks. Set the compressor with a medium attack and release for dynamic control without sacrificing the vocal's natural qualities in and out of game!",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "One Of Dr. Dre’s Engineers Explaining Audio Engineering",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Reflecting on the use of the A820 Studer tape machine, aim for a balanced medium volume setting for your tracks overall to try and capture the warmth and dynamics reminiscent of Dr. Dre's production in 'Still D.R.E.'.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "Taking inspiration from Dr. Dre's hip-hop days, experiment with dynamic panning for rhythmic elements between -0.5 and +0.5 (medium levels) to create a spacious mix similar to 'The Next Episode'.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "In capturing natural sounds as mentioned for live instrument recordings, apply a light Reverb at level 1 or 2 on drums and vocals, emulating the live room feel of recordings like those in 'Let Me Ride'.",
+          "source": "[00:20:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Considering Dre's emphasis on high-quality converters, use Delay sparingly at level 1 or 2 on lead vocals for clarity and depth, enhancing tracks akin to 'Forgot About Dre'.",
+          "source": "[00:10:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Inspired by specific EQs like the GML and API used in Dre's projects, adjust MID frequencies by boosting around 0.2 to 0.3 on vocals for clarity, reminiscent of the technique used in 'Nuthin' But a 'G' Thang'.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Like Dr. Dre drawing from the use of specific compressors like DBX 160, apply compression with a medium attack and release on your tracks to retain dynamic range while ensuring consistency, as might be done on 'California Love'.",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Jaycen Joshua on Creative Drum Mixing",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Jaycen Joshua emphasizes the use of dynamic processing to shape the drum's volume. For a drum track similar to what might be found in 'Sicko Mode' by Travis Scott, adjust the volume high to sit perfectly in the mix, while still allowing the drums to punch through.",
+          "source": "[00:00:00 - 00:05:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "To achieve the wide stereo image of drums like those in Beyoncé's 'Drunk in Love', experiment with subtle panning of percussive elements, ranging from -1 to +1 (be bold!), creating an immersive listening experience.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "For adding depth to drums, similar to Jaycen's work on 'Blinding Lights' by The Weeknd, apply a light Reverb on the snare and toms to simulate space without overwhelming the mix.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Jaycen's technique of adding a subtle top-end spark can be replicated with Delay. On a drum hit, incorporate a short Delay at level 1 with a fast attack time to enhance the crispness, akin to the drums in 'God's Plan' by Drake.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Inspired by Jaycen's process for mixing a tambor loop, boost high mid frequencies slightly while removing low frequencies to allow drums to cut through in mixes similar to Doja Cat's tracks.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Drawing from Jaycen's creative use of the CLA-76 compressor and SSL compressor for drums, apply compression with a medium attack and fast release on your drum tracks to retain punchiness while controlling dynamics, as might be done on tracks for Post Malone.",
+          "source": "[00:00:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Mastering ‘Happy’ by Pharrell Williams",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "The speaker notes the significance of maintaining the mix's natural dynamics. For a track like 'Happy' by Pharrell Williams, adjust the overall volume high to preserve its energetic and vibrant feel without over-compression. Too much compression might make your track sound muted",
+          "source": "[00:00:00 - 00:05:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Considering the track's openness and natural sound, apply a minimal Reverb to key elements like vocals and handclaps in 'Happy' to enhance spatial depth without clouding the mix. Devil's in the details!",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "To replicate the lively feel of Pharell Williams' 'Happy', use a light Delay at level 2 on background vocals, ensuring the echo contributes to the song's energy without detracting from the lead vocals' clarity.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Pharell Williams' producer advocates for a solid state EQ to shape 'Happy's frequency spectrum. In the game, gently boost high mid frequencies on the master track to brighten the mix and emphasize the song's joyfulness.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Using Phraell Williams' 'Happy' as an example, apply tube compression subtly with a ratio of 2:1 and adjust the threshold to lightly compress the mix, adding warmth and musicality without altering the track's intended emotion.",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "John Greenham Masters ‘Bad Guy’ by Billie Eilish",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Greenham emphasizes the track's dynamics over loudness. For a mix like 'Bad Guy' by Billie Eilish, set the overall volume to maintain the song's dynamic range, aiming for a balance that keeps the low end powerful and the vocals clear without maximizing loudness.",
+          "source": "[00:00:00 - 00:05:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "While not specifically mentioned, mastering involves assessing stereo imaging. Ensure elements that contribute to the track's spatial feel, similar to 'Bad Guy', are well-balanced, with subtle adjustments to maintain a wide soundstage.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Considering the song's unique elements, apply a light Reverb at level 1 or 2 to key components to enhance spatial depth without overshadowing Billie Eilish's distinctive vocals.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "To replicate the track's playful and eerie atmosphere, use Delay sparingly at level 2 on vocal ad-libs, ensuring the effect contributes to the song's character without detracting from the lead vocal's clarity.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Greenham focuses on enhancing Billie's vocal using saturation for clarity. In the game, gently boost high mid frequencies around 0.2 to 0.3 on the master track to brighten the mix and emphasize the vocals, simulating the effect of saturation.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Drawing from Greenham's technique, apply subtle compression with a ratio of 2:1 and adjust the threshold to lightly compress the mix, adding warmth and musicality without altering the track's intended emotion and dynamics.",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "John Greenham Masters ‘Bad Guy’ by Billie Eilish",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Greenham emphasizes the track's dynamics over loudness. For a mix like 'Bad Guy' by Billie Eilish, set the overall volume to maintain the song's dynamic range, aiming for a balance that keeps the low end powerful and the vocals clear without maximizing loudness.",
+          "source": "[00:00:00 - 00:05:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Considering the song's unique elements, apply reverb sparsely to key components to enhance spatial depth without overshadowing vocals like Billie Eilish's distinctive vocals.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "To replicate Billie Eilish's tracks with playful and eerie atmosphere, use Delay sparingly just on vocal ad-libs, ensuring the effect contributes to the song's character without detracting from the lead vocal's clarity.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Greenham focuses on enhancing Billie Eilish's vocal using saturation for clarity. In the game, gently boost high mid frequencies on the master track to brighten the mix and emphasize the vocals, simulating the effect of saturation.",
+          "source": "[00:05:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Drawing from Greenham's technique, apply subtle compression with a ratio of 3:1 or 2:1 and adjust the threshold to lightly compress the mix, adding warmth and musicality without altering the track's intended emotion and dynamics.",
+          "source": "[00:05:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Mastering Kendrick Lamar's 'HUMBLE' with Mike Bozzi",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Mike Bozzi highlights the importance of maintaining the dynamic range while enhancing the overall loudness. For 'HUMBLE' by Kendrick Lamar, aim for a master volume that preserves the song's energy and punch, targeting a balance that competes commercially without sacrificing dynamic expression.",
+          "source": "[00:00:00 - 00:05:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "While Bozzi's mastering process primarily focuses on EQ and compression, ensuring stereo balance is crucial for a mix like 'HUMBLE'. Adjust panning to enhance the spatial distribution of elements, creating an immersive listening experience without specific adjustments mentioned.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "To replicate the open and competitive sound of 'HUMBLE', apply minimal Reverb on key elements if necessary. Use light Reverb if you need to, in order to maintain clarity and space in Kendrick Lamar's vocals.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Bozzi's approach to mastering focuses on enhancing the natural qualities of the mix. For vocal tracks like Kendrick's 'HUMBLE', use Delay sparingly at level 2 to add depth without overshadowing Kendrick Lamar's powerful delivery.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Bozzi boosts the midrange of Kendrick Lamar's vocals in 'HUMBLE' to add energy and presence. In the game, adjust the EQ by boosting mid frequencies on the master track to enhance vocal clarity and cut through the mix.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "To maintain the fullness of the low end while adding brightness, as Bozzi did for 'HUMBLE', apply subtle compression starting with a low ratio and adjusting the threshold to not overly compress the mix. This approach adds warmth and maintains the track's dynamic integrity.",
+          "source": "[00:00:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Jack Antonoff Capturing the Essence of Lana Del Rey",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Antonoff emphasizes Lana Del Rey's vocals as the base of their songs. For tracks like 'Mariners Apartment Complex', ensure the vocal volume stands out in the mix, setting it high on your own tracks to simulate Antonoff highlighting Lana's distinctiveness.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "To capture the cinematic landscape mix engineer Antonoff and Lana Del Rey create, use subtle panning on ambient sounds and backing vocals, ranging from -0.2 to +0.2, enhancing the song's atmospheric quality, as in 'Venice Bitch'.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Reflecting Antonoff's approach, apply a medium Hall Reverb to Lana Del Rey's vocals on tracks like 'Norman Fucking Rockwell' to achieve a cinematic and immersive sound that extends beyond the performance.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "For adding depth to songs like 'Hope is a dangerous thing for a woman like me to have - but I have it', incorporate a very light, wet-sounding Delay on your vocals, creating a reflective and expansive atmosphere like Lana.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "To enhance the uniqueness of vocals, as Antonoff does for Lana Del Rey, adjust your EQ by boosting high frequencies on the master track, ensuring yor voice cuts through the mix with clarity, and getting a scintillating sound.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Drawing inspiration from Antonoff's dedication, use subtle compression with a low ratio like he does on Lana Del Rey's vocals to preserve the dynamic range while ensuring consistency, as might be needed for her song 'The greatest'.",
+          "source": "[00:00:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Tom Elmhirst Mixing ‘TIL FURTHER NOTICE’ by Travis Scott ft. James Blake & 21 Savage",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "Travis Scott's mix engineer, Tom Elmhirst emphasizes the dynamic sound of 'TIL FURTHER NOTICE'. To achieve this in the game, adjust the volume of vocals high for prominence, while maintaining balance with other tracks (vocal or instrumental).",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "To create the contrast between sounds as Tom Elmhirst does for Travis Scott, experiment with panning Travis Scott's vocals slightly to the left, another vocal track to the right, and another to the center, achieving a wide stereo effect in sections of the track.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "Apply a heavy Reverb to vocals in the style of Travis Scott and James Blake to enhance spatial depth, while using a slightly more pronounced Reverb on straight rap verses to distinguish their unique textures within songs like Travis Scott's 'TIL FURTHER NOTICE'.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Incorporate a mono Delay on your lead vocals to create contrast, as Elmhirst mentions for Travis Scott, especially effective in verses to add depth without overwhelming the track's powerful dynamic.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "Tom Elmhirst focuses on the contrast between sounds for Travis Scott. For 'TIL FURTHER NOTICE', enhance the EQ by slightly boosting high frequencies around vocals to cut through the mix, while applying a mild cut on the low frequencies of your vocal to make room for the bass and kick.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "To maintain the dynamic and powerful sound of rap songs like Travis Scott's 'TIL FURTHER NOTICE', use subtle compression with a low ratio on the overall mix. This approach helps retain the track's energy while ensuring a cohesive sound among vocals like those of Travis Scott, James Blake, and 21 Savage.",
+          "source": "[00:00:00]"
+        }
+      ]
+    },
+    {
+      "feedback_for_video": "Producing and Mixing ‘I Fall Apart’ by Post Malone",
+      "feedback": [
+        {
+          "aspect": "Volume",
+          "advice": "El Angelo, Post Malone's mix engineer, discusses the importance of gain reduction on drum elements for songs like 'I Fall Apart' by Post Malone. Aim for a balanced volume setting across drum elements, with the kick, snare, and high hat each set around the same volume to achieve a dynamic but balanced mix.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Panning",
+          "advice": "Given the track's production nuances, experiment with panning for the high hat slightly to the left (-0.2) and the snare slightly to the right (+0.2) to create a more engaging stereo image in songs like Post Malone's 'I Fall Apart'.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Reverb",
+          "advice": "To replicate the atmospheric depth in songs like Post Malone's 'I Fall Apart', apply a light Reverb specifically to elements on the drums like a snare, along with your vocals, enhancing spatial depth while making them sound like their coming from the same area in the track.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Delay",
+          "advice": "Incorporate a light mono Delay key vocal phrases to emulate songs like 'I Fall Apart' by Post Malone to add depth, especially effective during the bridge and chorus to enhance emotional impact.",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "EQ",
+          "advice": "El Angelo, Post Malone's mix engineer,  uses a plugin called UAD NE 1073 EQ for the drum patch in 'I Fall Apart'. In the game, simulate this patch's effect by boosting high frequencies on your EQ for the kick and snare to cut through the mix",
+          "source": "[00:00:00]"
+        },
+        {
+          "aspect": "Compression",
+          "advice": "Drawing inspiration from the Post Malone's 'I Fall Apart', apply subtle compression with a low ratio on the overall mix to maintain the track's dynamic range while ensuring vocals in the style of Post Malone's remain clear and impactful.",
+          "source": "[00:00:00]"
+        }
+      ]
+    }    
+  ]
+}
